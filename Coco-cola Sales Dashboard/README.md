@@ -20,13 +20,13 @@ This Power BI dashboard analyzes Coca-Cola sales data to track performance, tren
 - Enabled quick performance comparisons  
 
 ## 🖼️ Dashboard Preview
-Screenshots included in this folder.
+<img width="1312" height="733" alt="coco cola scr" src="https://github.com/user-attachments/assets/421f2803-b21c-478f-8822-b60a6b97e29c" />
 
 ## 🚀 Learning
 Enhanced skills in Power BI modeling, visualization, and business insight generation.
 
 **Author:** Suraj Ringne  
 Data Analyst | Power BI • Excel • SQL • Tableau • Python (Learning)
-<img width="1312" height="733" alt="coco cola scr" src="https://github.com/user-attachments/assets/421f2803-b21c-478f-8822-b60a6b97e29c" />
+
 
 
